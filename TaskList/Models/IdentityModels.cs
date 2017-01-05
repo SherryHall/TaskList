@@ -34,5 +34,5 @@ namespace TaskList.Models
         }
 
 		public DbSet<TaskItem> TaskItems { get; set; }
-	}
+}
 }
